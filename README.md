@@ -2,6 +2,8 @@
 
 MELTÉ Baked Sweets Website（MELTÉ 3DクッキーのLP）
 
+https://aya-nyanko.github.io/MELT-/
+
 - [GitHubリポジトリ](https://github.com/Aya-nyanko/MELT-)
 - [GitHub Pages](https://aya-nyanko.github.io/MELT-/)
 
